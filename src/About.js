@@ -1,4 +1,5 @@
 import React from "react";
+
 import me from './img/profile.jpg';
 import { ReactComponent as Html } from './img/html.svg';
 import { ReactComponent as Js } from './img/js.svg';
@@ -13,7 +14,7 @@ import './About.css';
 
 function About() {
     return (
-        <div className="card mb-3">
+        <div className="card mt-3">
             <div className="row g-0">
                 <div className="col-md-5 text-center align-self-center">
                     <img src={me} className="img-fluid profile" alt=""></img>
