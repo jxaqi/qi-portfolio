@@ -1,3 +1,288 @@
-/* .App {
-  text-align: center;
-} */
+.icon {
+  color: #3a3a3a !important;
+}
+
+.icon:hover {
+  color: #000 !important;
+}
+
+.linkedin {
+  margin-left: 85%;
+}
+
+/* Media screen */
+@media only screen and (max-width: 1439px) {
+  .linkedin {
+    margin-left: 80%;
+  }
+}
+
+@media only screen and (max-width: 983px) {
+  .linkedin {
+    margin-left: 79%;
+  }
+}
+
+@media only screen and (max-width: 938px) {
+  .linkedin {
+    margin-left: 78%;
+  }
+}
+
+@media only screen and (max-width: 896px) {
+  .linkedin {
+    margin-left: 77%;
+  }
+}
+
+@media only screen and (max-width: 858px) {
+  .linkedin {
+    margin-left: 76%;
+  }
+}
+
+@media only screen and (max-width: 823px) {
+  .linkedin {
+    margin-left: 75%;
+  }
+}
+
+@media only screen and (max-width: 791px) {
+  .linkedin {
+    margin-left: 74%;
+  }
+}
+
+@media only screen and (max-width: 762px) {
+  .linkedin {
+    margin-left: 73%;
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  .linkedin {
+    margin-left: 72%;
+  }
+}
+
+@media only screen and (max-width: 709px) {
+  .linkedin {
+    margin-left: 71%;
+  }
+}
+
+@media only screen and (max-width: 686px) {
+  .linkedin {
+    margin-left: 70%;
+  }
+}
+
+@media only screen and (max-width: 663px) {
+  .linkedin {
+    margin-left: 69%;
+  }
+}
+
+@media only screen and (max-width: 643px) {
+  .linkedin {
+    margin-left: 68%;
+  }
+}
+
+@media only screen and (max-width: 623px) {
+  .linkedin {
+    margin-left: 67%;
+  }
+}
+
+@media only screen and (max-width: 605px) {
+  .linkedin {
+    margin-left: 66%;
+  }
+}
+
+@media only screen and (max-width: 588px) {
+  .linkedin {
+    margin-left: 65%;
+  }
+}
+
+@media only screen and (max-width: 572px) {
+  .linkedin {
+    margin-left: 64%;
+  }
+}
+
+@media only screen and (max-width: 557px) {
+  .linkedin {
+    margin-left: 63%;
+  }
+}
+
+@media only screen and (max-width: 542px) {
+  .linkedin {
+    margin-left: 62%;
+  }
+}
+
+@media only screen and (max-width: 529px) {
+  .linkedin {
+    margin-left: 61%;
+  }
+}
+
+@media only screen and (max-width: 516px) {
+  .linkedin {
+    margin-left: 60%;
+  }
+}
+
+@media only screen and (max-width: 503px) {
+  .linkedin {
+    margin-left: 59%;
+  }
+}
+
+@media only screen and (max-width: 492px) {
+  .linkedin {
+    margin-left: 58%;
+  }
+}
+
+@media only screen and (max-width: 481px) {
+  .linkedin {
+    margin-left: 57%;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .linkedin {
+    margin-left: 56%;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .linkedin {
+    margin-left: 55%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .linkedin {
+    margin-left: 54%;
+  }
+}
+
+@media only screen and (max-width: 441px) {
+  .linkedin {
+    margin-left: 53%;
+  }
+}
+
+@media only screen and (max-width: 432px) {
+  .linkedin {
+    margin-left: 52%;
+  }
+}
+
+@media only screen and (max-width: 423px) {
+  .linkedin {
+    margin-left: 51%;
+  }
+}
+
+@media only screen and (max-width: 415px) {
+  .linkedin {
+    margin-left: 50%;
+  }
+}
+
+@media only screen and (max-width: 407px) {
+  .linkedin {
+    margin-left: 49%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .linkedin {
+    margin-left: 48%;
+  }
+}
+
+@media only screen and (max-width: 393px) {
+  .linkedin {
+    margin-left: 47%;
+  }
+}
+
+@media only screen and (max-width: 386px) {
+  .linkedin {
+    margin-left: 46%;
+  }
+}
+
+@media only screen and (max-width: 379px) {
+  .linkedin {
+    margin-left: 45%;
+  }
+}
+
+@media only screen and (max-width: 373px) {
+  .linkedin {
+    margin-left: 44%;
+  }
+}
+
+@media only screen and (max-width: 366px) {
+  .linkedin {
+    margin-left: 43%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .linkedin {
+    margin-left: 42%;
+  }
+}
+
+@media only screen and (max-width: 355px) {
+  .linkedin {
+    margin-left: 41%;
+  }
+}
+
+@media only screen and (max-width: 349px) {
+  .linkedin {
+    margin-left: 40%;
+  }
+}
+
+@media only screen and (max-width: 343px) {
+  .linkedin {
+    margin-left: 39%;
+  }
+}
+
+@media only screen and (max-width: 338px) {
+  .linkedin {
+    margin-left: 38%;
+  }
+}
+
+@media only screen and (max-width: 333px) {
+  .linkedin {
+    margin-left: 37%;
+  }
+}
+
+@media only screen and (max-width: 328px) {
+  .linkedin {
+    margin-left: 36%;
+  }
+}
+
+@media only screen and (max-width: 323px) {
+  .linkedin {
+    margin-left: 35%;
+  }
+}
