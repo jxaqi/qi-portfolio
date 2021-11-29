@@ -18,7 +18,7 @@ function Project() {
                         <img src={sigmarket} className="card-img-top" alt=""></img>
                         <div className="card-body">
                             <p className="card-caption text-uppercase">Website Redesign</p>
-                            <a href="https://github.com/jxaqi/sig-market-redesign" className="card-summary text-decoration-none" target="_blank">Signature Market</a>
+                            <a href="https://github.com/jxaqi/sig-market-redesign" className="card-summary text-decoration-none" target="_blank" rel="noreferrer">Signature Market</a>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@ function Project() {
                         <img src={weather} className="card-img-top" alt=""></img>
                         <div className="card-body">
                             <p className="card-caption text-uppercase">React App</p>
-                            <a href="https://github.com/jxaqi/react-weather-app" className="card-summary text-decoration-none" target="_blank">Weather</a>
+                            <a href="https://github.com/jxaqi/react-weather-app" className="card-summary text-decoration-none" target="_blank" rel="noreferrer">Weather</a>
                         </div>
                     </div>
                 </div>

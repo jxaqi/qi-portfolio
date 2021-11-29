@@ -12,9 +12,9 @@ function App() {
     <div className="App">
       <nav className="navbar navbar-light bg-white shadow-sm">
         <div className="container-fluid">
-          <a className="nav-link" href="#"><img src={flower} alt="flower" width="32" height="32"></img></a>
-          <a className="nav-link icon linkedin" href="https://www.linkedin.com/in/jiaqifoo/" target="_blank"><FaLinkedin size={32} /></a>
-          <a className="nav-link icon" href="https://github.com/jxaqi" target="_blank"><FaGithub size={32} /></a>
+          <a className="nav-link disabled" href="#"><img src={flower} alt="flower" width="32" height="32"></img></a>
+          <a className="nav-link icon linkedin" href="https://www.linkedin.com/in/jiaqifoo/" target="_blank" rel="noreferrer"><FaLinkedin size={32} /></a>
+          <a className="nav-link icon" href="https://github.com/jxaqi" target="_blank" rel="noreferrer"><FaGithub size={32} /></a>
         </div>
       </nav>
       <About />
