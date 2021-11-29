@@ -11,6 +11,10 @@
   margin-top: 4rem;
 }
 
+.project {
+  margin: 0 0.3rem 0 0.3rem !important;
+}
+
 .card-caption {
   font-weight: 300;
   margin-bottom: 0;

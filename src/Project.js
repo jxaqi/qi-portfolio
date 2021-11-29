@@ -12,7 +12,7 @@ function Project() {
                 <h2 className="heading1">Projects.</h2>
                 <p>websites</p>
             </div>
-            <div className="row">
+            <div className="row project">
                 <div className="col-md-6 mb-3">
                     <div className="card h-100 text-center">
                         <img src={sigmarket} className="card-img-top" alt=""></img>
